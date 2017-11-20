@@ -10,6 +10,6 @@
 namespace UKR_FLI {
     
     
-    public partial class Contact {
+    public partial class index {
     }
 }

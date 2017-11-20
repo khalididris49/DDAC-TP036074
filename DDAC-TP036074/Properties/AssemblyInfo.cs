@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DDAC_TP036074")]
+[assembly: AssemblyTitle("DDAC-TP036074")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DDAC_TP036074")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyCompany("rg-adguard")]
+[assembly: AssemblyProduct("DDAC-TP036074")]
+[assembly: AssemblyCopyright("Copyright © rg-adguard 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f1387b33-4163-47cb-ab38-5e904bee1514")]
+[assembly: Guid("c92507bc-2bbd-4a18-a263-8eccbd1b6ccf")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace DDAC_TP036074
+namespace UKR_FLI
 {
     public partial class About : Page
     {
